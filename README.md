@@ -10,9 +10,8 @@ This repo, Legacy-Meower-Yoom, is a amalgamation of old and new ideas. Fundament
 5. Offer Meower-derived projects official code documentation and technical support.
 
 ## New features
-As part of the New Meower project, some of the new features currently in development include:
-* API-based backend-and-frontend communication.
-* CloudLink enhancements and bugfixes
+* Improve API-based backend-and-frontend communication.
+* CloudLink enhancements and bugfixes for clients using only CL.
 * Communities, better direct/group chats, and forums.
 * Images and emoji support.
 * Instant notifications
